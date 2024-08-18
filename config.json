@@ -1,0 +1,9 @@
+{
+	"capi": false,
+	"https": false,
+	"fallbackImage": "",
+	"framework": "svelte",
+	"layout": "bleed",
+	"slug": "globe-with-lines",
+	"uuid": "f00855c3-09cc-45c0-8de6-1fe27ef43076"
+}
